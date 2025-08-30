@@ -1,4 +1,5 @@
 # pr-training
 
-Yo
+これは PR の練習用のテキストです。
+text here was changed
 aaa
