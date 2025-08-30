@@ -1,3 +1,3 @@
 # pr-training
 
-Yo
+これは PR の練習用のテキストです。
